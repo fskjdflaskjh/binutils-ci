@@ -1,3 +1,3 @@
-BINUTILS_VERSION=62442d9b8827046596fcff584d55c1f7f189c379
+BINUTILS_VERSION=3aa1633ced7e4ae16504cbf0683f8b9c1eca494f
 BINUTILS_URL=https://github.com/jcmvbkbc/binutils-gdb-xtensa/archive/${BINUTILS_VERSION}.tar.gz
 BINUTILS_CONFIGURE_PARAMETERS=( --disable-gdb )
