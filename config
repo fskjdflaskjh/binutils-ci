@@ -1,3 +1,3 @@
-BINUTILS_VERSION=5c4ce239a3ab9263163a0fe8e7487b39a41c43d1
+BINUTILS_VERSION=eb6af80922a56b67228f7564facc4cb4aa44a0ae
 BINUTILS_URL=https://github.com/fskjdflaskjh/binutils-gdb/archive/${BINUTILS_VERSION}.tar.gz
 BINUTILS_CONFIGURE_PARAMETERS=( --disable-gdb )
